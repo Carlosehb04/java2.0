@@ -1,0 +1,36 @@
+# Archivos compilados
+*.class
+
+# Logs
+*.log
+
+# Carpeta build
+target/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+.metadata/
+bin/
+*.class
+.settings/
+.project
+.classpath
